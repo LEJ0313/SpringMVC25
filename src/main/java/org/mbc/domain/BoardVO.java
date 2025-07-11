@@ -13,6 +13,6 @@ public class BoardVO {
 	private String title;
 	private String content;
 	private String writer;
-	private Date regdate;	//import java.util.Date;
+	private Date regDate;	//import java.util.Date;
 	private Date updateDate;
 }
